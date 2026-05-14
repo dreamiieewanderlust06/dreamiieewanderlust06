@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-sakshibhatia696%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=161b22)](mailto:sakshibhatia696@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sakshibhatia-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=161b22)](https://linkedin.com/in/sakshibhatia)
 [![GitHub](https://img.shields.io/badge/GitHub-sakshibhatia17-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=161b22)](https://github.com/sakshibhatia17)
-[![Profile Views](https://komarev.com/ghpvc/?username=dreamiieewanderlust06&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS&labelColor=0d1117)](https://github.com/sakshibhatia17)
+[![Profile Views](https://komarev.com/ghpvc/?username=sakshibhatia17&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS&labelColor=0d1117)](https://github.com/sakshibhatia17)
 
 <br/>
 
@@ -222,8 +222,8 @@ Spearheaded **3 campus sustainability initiatives** — each received unanimous 
 | 🌐 Platform | 🔗 Link |
 |---|---|
 | 📧 Email | [sakshibhatia696@gmail.com](mailto:sakshibhatia696@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/sakshibhatia](https://linkedin.com/in/sakshibhatia) |
-| 🐙 GitHub | [github.com/dreamiieewanderlust06](https://github.com/dreamiieewanderlust06) |
+| 💼 LinkedIn | [linkedin.com/in/sakshibhatia](https://www.linkedin.com/in/sakshi-bhatia-6928a1321/) |
+| 🐙 GitHub | [github.com/sakshibhatia17](https://github.com/sakshibhatia17) |
 | 📱 Phone | +91-6351059639 |
 
 </div>
