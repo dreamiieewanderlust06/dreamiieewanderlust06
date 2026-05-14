@@ -187,17 +187,17 @@ me.greet()
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dreamiieewanderlust06&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshibhatia17&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&include_all_commits=true&count_private=true" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamiieewanderlust06&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshibhatia17&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dreamiieewanderlust06&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=e3b341&currStreakLabel=58a6ff" width="520"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshibhatia17&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=e3b341&currStreakLabel=58a6ff" width="520"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dreamiieewanderlust06&bg_color=0d1117&color=58a6ff&line=3fb950&point=e3b341&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshibhatia17&bg_color=0d1117&color=58a6ff&line=3fb950&point=e3b341&area=true&hide_border=true" width="100%"/>
 </p>
 
 ---
