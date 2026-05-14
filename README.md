@@ -114,7 +114,7 @@ me.greet()
 
 ---
 
-### ⚡ [Productivity Pro Suite](https://github.com/dreamiieewanderlust06) — Chrome Extension
+### ⚡ [Productivity Pro Suite](https://github.com/sakshibhatia17) — Chrome Extension
 `JavaScript` `Chrome APIs` `Gemini AI` `Google Calendar API`
 
 > A Chrome extension that kills context-switching and task fragmentation for knowledge workers.
@@ -126,7 +126,7 @@ me.greet()
 
 ---
 
-### 👁️ [Driver Drowsiness Detection System](https://github.com/dreamiieewanderlust06)
+### 👁️ [Driver Drowsiness Detection System](https://github.com/sakshibhatia17)
 `Python` `OpenCV` `Machine Learning` `Computer Vision`
 
 > Real-time CV safety system that detects driver fatigue before it's fatal.
@@ -138,7 +138,7 @@ me.greet()
 
 ---
 
-### 🚂 [Railway Reservation Management System](https://github.com/dreamiieewanderlust06)
+### 🚂 [Railway Reservation Management System](https://github.com/sakshibhatia17)
 `Java` `OOP` `System Design`
 
 > A clean, modular reservation system built with software engineering best practices.
