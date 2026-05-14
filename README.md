@@ -9,7 +9,6 @@
 [![Email](https://img.shields.io/badge/Email-sakshibhatia696%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=161b22)](mailto:sakshibhatia696@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sakshibhatia-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=161b22)](https://www.linkedin.com/in/sakshi-bhatia-6928a1321/)
 [![GitHub](https://img.shields.io/badge/GitHub-sakshibhatia17-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=161b22)](https://github.com/sakshibhatia17)
-[![Profile Views](https://komarev.com/ghpvc/?username=sakshibhatia17&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS&labelColor=0d1117)](https://github.com/sakshibhatia17)
 
 <br/>
 
