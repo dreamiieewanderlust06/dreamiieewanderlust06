@@ -8,8 +8,8 @@
 
 [![Email](https://img.shields.io/badge/Email-sakshibhatia696%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=161b22)](mailto:sakshibhatia696@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sakshibhatia-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=161b22)](https://linkedin.com/in/sakshibhatia)
-[![GitHub](https://img.shields.io/badge/GitHub-dreamiieewanderlust06-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=161b22)](https://github.com/dreamiieewanderlust06)
-[![Profile Views](https://komarev.com/ghpvc/?username=dreamiieewanderlust06&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS&labelColor=0d1117)](https://github.com/dreamiieewanderlust06)
+[![GitHub](https://img.shields.io/badge/GitHub-dreamiieewanderlust06-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=161b22)](https://github.com/sakshibhatia17)
+[![Profile Views](https://komarev.com/ghpvc/?username=dreamiieewanderlust06&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS&labelColor=0d1117)](https://github.com/sakshibhatia17)
 
 <br/>
 
