@@ -3,7 +3,7 @@
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2a3a,100:0d1117&height=120&section=header&text=Sakshi%20Bhatia&fontColor=58a6ff&fontSize=36&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&width=550&lines=ML+Engineer+%26+Data+Scientist;Computer+Vision+%7C+OpenCV+%7C+PyTorch;ECE+%2B+Data+Science+%40+IIIT-J+%26+IIT-M;Hackathon+Winner+%F0%9F%8F%86+%7C+Drone+Programmer+%F0%9F%A4%96;Building+real-world+AI+solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&width=550&lines=Full+Stack+Developer+%26+Software+Engineer;Next.js+%7C+FastAPI+%7C+PostgreSQL;ECE+%2B+Data+Science+%40+IIIT-J+%26+IIT-M;Hackathon+Winner+%F0%9F%8F%86+%7C+Problem+Solver;Building+scalable+web+solutions" />
 
 <br/>
 
@@ -25,9 +25,10 @@
 ```python
 class SakshiBhatia:
     def __init__(self):
-        self.role      = "ML Engineer + Full-Stack Dev"
+        self.role      = "Full-Stack Developer"
         self.education = ["IIIT Jabalpur — B.Tech ECE", "IIT Madras — BS Data Science"]
-        self.passion   = ["Computer Vision", "LLMs", "IoT", "Robotics"]
+        self.stack     = ["Next.js", "React", "FastAPI", "PostgreSQL"]
+        self.passion   = ["Scalable Systems", "Web Performance", "UI/UX", "IoT"]
         self.building  = True   # always building something
         self.chess     = "national player ♟"
         self.fun_fact  = "I program drones AND fix bugs at 3am"
@@ -37,8 +38,6 @@ class SakshiBhatia:
 
 me = SakshiBhatia()
 me.say_hi()
-```
-
 ---
 
 ## 🎓 Education
